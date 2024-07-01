@@ -1,4 +1,4 @@
-Non-Technical Skills Training with GPT-4 for Urology Trainees
+ALL DATA TO BE ADDED BY 14TH JULY. Non-Technical Skills Training with GPT-4 for Urology Trainees
 Welcome to the repository for our study on integrating Generative Pre-trained Transformer 4 (GPT-4) into non-technical skills training for urology trainees. This project explores how artificial intelligence can enhance training processes by comparing the efficacy of AI-driven feedback with traditional human feedback.
 
 Contents
